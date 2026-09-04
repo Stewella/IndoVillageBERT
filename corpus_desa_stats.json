@@ -1,0 +1,11 @@
+{
+  "number_of_documents": 5551,
+  "number_of_paragraphs": 2846831,
+  "number_of_sentences": 1945599,
+  "number_of_tokens": 68626665,
+  "number_of_unique_tokens": 2161577,
+  "vocabulary_size": 2161577,
+  "average_document_length_tokens": 12362.94,
+  "average_sentence_length_tokens": 35.27,
+  "average_token_length_chars": 5.6
+}
